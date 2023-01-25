@@ -1,0 +1,16 @@
+*{
+    background: rgb(125, 231, 231);
+}
+input{
+    background-color: aliceblue;
+}
+
+select{
+    background-color: aliceblue;
+}
+ 
+li{
+   padding: 5px;
+   margin: 5px;
+   border: none;
+}
